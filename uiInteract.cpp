@@ -1,8 +1,6 @@
 /***********************************************************************
  * Source File:
  *     UI INTERACT
- * Author:
- *     Br. Helfrich
  * Description:
  *     Implement the interfaces specified in uiInterface.h.  This handles
  *     all the interfaces and events necessary to work with OpenGL.  Your
