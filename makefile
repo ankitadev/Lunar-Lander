@@ -1,22 +1,12 @@
 ###############################################################
-# Program:
-#     Project 07, Moon Lander
-#     Brother Cook, CS165
 # Author:
 #     Ankita Dev
-# Summary:
-#     Put your summary code here... 
-# Above and Beyond
-#     When you submit your final project (not for milestones),
-#     list anything here that you did to go above and beyond
-#     the base requirements for your project.
 ###############################################################
-
 
 LFLAGS = -lglut -lGLU -lGL
 
 ###############################################################
-# Build the main Moon Lander game
+# Build the main Lunar Lander game
 ###############################################################
 a.out: driver.o ground.o game.o uiInteract.o uiDraw.o point.o lander.o velocity.o
 	g++ driver.o ground.o game.o uiInteract.o uiDraw.o point.o lander.o velocity.o $(LFLAGS)
