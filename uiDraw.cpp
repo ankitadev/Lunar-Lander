@@ -1,8 +1,4 @@
 /***********************************************************************
- * Source File:
- *    User Interface Draw : put pixels on the screen
- * Author:
- *    Br. Helfrich
  * Summary:
  *    This is the code necessary to draw on the screen. We have a collection
  *    of procedural functions here because each draw function does not
