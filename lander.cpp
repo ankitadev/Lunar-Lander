@@ -1,7 +1,6 @@
 /********************************
  * File: lander.cpp
  * Author: Ankita Dev
- *
  * The methods of the Lander class.
  ********************************/
 
