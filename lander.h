@@ -5,7 +5,7 @@
  *    Ankita Dev
  * Summary:
  *    Everything we need to know about a location on the screen, including
- *    the location and the bounds.
+ *    the location and the bounds of the frame.
  ************************************************************************/
 #ifndef LANDER_H
 #define LANDER_H
